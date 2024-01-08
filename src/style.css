@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.li{
+    padding: 4px;
+    margin: 2px;
+}
+.form-input{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 5px;
+}
+
+.input{
+    width: 10rem;
+    padding: 5px;
+}
+
+.form{
+    margin: 10px 10px;
+}
